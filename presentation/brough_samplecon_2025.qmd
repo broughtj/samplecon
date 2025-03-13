@@ -1,0 +1,145 @@
+---
+title: "AI Alone Won't Save Data Quality: Lessons from the Financial Markets"
+author: Tyler J. Brough
+date: 2025-03-18
+title-slide-attributes:
+  data-background-color: "#486790"
+format: 
+  revealjs:
+    theme: tjb.scss      # Modified simple theme.
+    slide-number: c/t    # Numbered slides current/total.
+    self-contained: true # Render to a single HTML file.
+execute:
+  eval: false
+  echo: true
+bibliography: references.bib
+---
+
+## Who Am I?
+
+:::: {.columns .v-center}
+
+::: {.column width="50%"}
+![](../images/whoami.png){fig-align="center"}
+
+::: {.incremental}
+- [PhD Finance](https://eller.arizona.edu/departments-research/schools-departments/finance), [MS Finance](https://giesbusiness.illinois.edu/msf), [BA Economics](https://economics.byu.edu/)
+- [Data Analytics + Information Systems](https://huntsman.usu.edu/dais/) at USU (FinTech)
+- Academic Research Director of the [**Analytics Solutions Center**](https://huntsman.usu.edu/asc/)
+:::
+
+:::
+
+::: {.column width="50%"}
+![](../images/tjb.jpg){fig-align="center"}
+:::
+
+::::
+
+
+## Michael I. Jordan: Data Sciece G.O.A.T? 
+
+<br>
+
+![](../images/the_goat.jpg){fig-align="center"}
+
+
+
+## Data Science: A Human-Centered Engineering Discipline
+
+:::: {.columns .v-center}
+
+::: {.column width="40%"}
+- In 2019, Jordan wrote a provactive article
+- Calls for reduced hype around *human imitative* AI
+- Focus instead on:
+  - 1. *Human augmentatitive* systems
+  - 2. *Intelligent infrastructure* 
+:::
+
+::: {.column width="60%"}
+![](../images/revolution.png){fig-align="center"}
+:::
+
+::::
+
+
+## Two Pillars of Catallatics 
+
+:::: {.columns .v-center}
+
+::: {.column width="50%"}
+![](../images/Hayek-Nobel.jpg){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](../images/Buchanan-Nobel.png){fig-align="center"}
+:::
+
+::::
+
+## Catallactics 
+
+<br>
+
+**Q: What kind of economics for a human-centered engineering discipline?**
+
+<br>
+
+Between Two Nobels: Buchanan & Hayek
+
+::: {.incremental}
+- Catallactics: economics as a humane science 
+- *The science of exchange*, *to admit into the community*, *to turn an outsider into a friend*
+- The evolution of institutions as attempts to cope with knowledge/coordination problems
+- Martin Buber's [I and Thou](https://link.springer.com/article/10.1007/s11127-023-01047-y)
+:::
+
+
+## Hayek on Catallatics 
+
+> "The confusion which has been created by the ambiguity of the word economy is so serious that for our present purposes it seems necessary to confine its use strictly to the original meaning in which it describes a complex of deliberately co-ordinated actions serving a single scale of ends, and to adopt another term to describe the system of interrelated economics which constitute the market order."
+
+
+> "The term 'catallactics' was derived from the Greek verb *katallattein* (or *katallassein*) which meant, significantly, not only ***'to exchange'*** but also ***'to admit into the community'*** and ***'to change from enemy into friend'***. From it the adjective 'catallatic' has been derived to serve in the place of 'economic' to describe the kind of phenomena with which the science of catallatics deals."
+
+
+## @BuchananSEJ1964 on Catallatics 
+
+> "Should I have my say, I should propose that we cease, forthwith, to talk about 'economics' or 'political economy,' although the latter is the much superior term. Were it possible to wipe the slate clean, I should recommend that we take up a wholly different term such as ***'catallactics,'*** or ***'symbiotics.'***"
+
+> "The elementary and basic approach that I suggest places 'the theory of markets' and not the 'theory of resource allocation' at center stage. My plea is really for the adoption of a sophisticated ***'catallactics'*** ..."
+
+
+## Hayekian on Knowledge and Coordination Problems ... [see @HayekEconomica1937]
+
+![](../images/Hayek-1937.png){fig-align="center"}
+
+
+## ... And Their Institutional Solution [see @HayekAER1945]
+
+![](../images/Hayek-1945.png){fig-align="center"}
+
+
+## Lessons from Financial Markets [see @WilliamsAH1982]
+
+![](../images/Williams%201982.png){fig-align="center"}
+
+
+## Programmatic Sampling
+
+<br>
+
+::: {.incremental}
+- What are the knowledge problems?
+- What are the coordination problems?
+- [Enshittification?](https://jddeitch.com/the-enshittification-of-programmatic-sampling-by-jd-deitch/) No! 
+- A *humane* data science requires proper *exchange* relationships
+- The commons is simply the wrong analogy
+- What we have is an incomplete set of contracts in a properly structured labor market
+:::
+
+
+## References 
+
+<br>
