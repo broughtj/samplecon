@@ -121,10 +121,28 @@ Between Two Nobels: Buchanan & Hayek
 ![](../images/Hayek-1945.png){fig-align="center"}
 
 
+## @BuchananECN1965
+
+![](../images/Buchanan-Header.png){fig-align="center"}
+
+![](../images/Buchanan-Econ-1965.png){fig-align="center" height="30%"}
+
+
 ## Lessons from Financial Markets [see @WilliamsAH1982]
 
-![](../images/Williams%201982.png){fig-align="center"}
+![](../images/Williams-Header.png){fig-align="center"}
+![](../images/Williams%201982.png){fig-align="center" height="20%"}
 
+
+## @RollAER1984 on Orange Juice and Weather {.smaller}
+
+::: {.figure fig-align="center"}
+![](../images/Roll1.png)
+:::
+
+::: {.figure width="500px" height="150px" fig-align="center"}
+![](../images/Roll3.png)
+:::
 
 ## Programmatic Sampling
 
@@ -138,6 +156,8 @@ Between Two Nobels: Buchanan & Hayek
 - The commons is simply the wrong analogy
 - What we have is an incomplete set of contracts in a properly structured labor market
 :::
+
+
 
 
 ## References 

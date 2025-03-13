@@ -5,7 +5,7 @@ Tyler J. Brough
 
 **Outline**
 
-1.  Who am I?
+1.  [Who am I?](https://github.com/broughtj)
 
 - Finance PhD, DAIS Dept. at USU
 - Scholarly efforts in FinTech and ***Computational Statistical
