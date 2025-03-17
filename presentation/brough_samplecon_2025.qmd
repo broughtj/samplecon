@@ -147,15 +147,17 @@ Between Two Nobels: Buchanan & Hayek
 ![](../images/Roll3.png)
 :::
 
-## Programmatic Sampling
+
+## A Guide for Entrepreneurs in Programmatic Sampling
 
 <br>
 
-<div style="font-size: 0.95em">
+<div style="font-size: 1em">
 ::: {.incremental}
 - What are the knowledge problems?
 - What are the coordination problems?
-- <a href="https://jddeitch.com/the-enshittification-of-programmatic-sampling-by-jd-deitch/" style="color: #0000FF"> Enshittification?</a> No!
+- <a href="https://jddeitch.com/the-enshittification-of-programmatic-sampling-by-jd-deitch/" style="color: #0000FF"> Enshittification?</a>
+- **NO!!!**
 - A ***humane*** data science requires proper ***exchange*** relationships
 - The tragedy of the commons is simply the wrong analogy!
 - What we have is an incomplete set of contracts in a properly structured labor market
@@ -164,8 +166,6 @@ Between Two Nobels: Buchanan & Hayek
 
 
 ##
-
-<br>
 
 ::: {.center .r-fit-text}
 Thank You!
