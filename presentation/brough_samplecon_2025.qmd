@@ -47,10 +47,9 @@ bibliography: references.bib
 
 ## Data Science: A Human-Centered Engineering Discipline
 
-
 :::: {.columns .v-center}
 
-::: {.column width="60%"}
+::: {.column width="50%" .incremental}
 - Let's pump the brakes on the AI hype machine!
 - **NOT:** human imitative AI 
 - Focus instead on:
@@ -58,7 +57,7 @@ bibliography: references.bib
   2. ***Intelligent infrastructure***
 :::
 
-::: {.column width="40%"}
+::: {.column width="50%"}
 ![](../images/revolution.png){fig-align="center"}
 :::
 
