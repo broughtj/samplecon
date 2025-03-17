@@ -37,7 +37,7 @@ bibliography: references.bib
 ::::
 
 
-## Michael I. Jordan: Data Sciece G.O.A.T? 
+## Michael I. Jordan: Data Science G.O.A.T? 
 
 <br>
 
@@ -47,13 +47,15 @@ bibliography: references.bib
 
 ## Data Science: A Human-Centered Engineering Discipline
 
+
 :::: {.columns .v-center}
 
 ::: {.column width="60%"}
+- Let's pump the brakes on the AI hype machine!
 - **NOT:** human imitative AI 
 - Focus instead on:
-  - 1. ***Human augmentatitive*** systems
-  - 2. ***Intelligent infrastructure***
+  1. ***Human augmentative*** systems
+  2. ***Intelligent infrastructure***
 :::
 
 ::: {.column width="40%"}
@@ -95,7 +97,7 @@ Between Two Nobels: Buchanan & Hayek
 :::
 
 
-## Hayek on Catallatics 
+## Hayek on Catallactics 
 
 ::: {.r-fit-text}
 > "The confusion which has been created by the ambiguity of the word economy is so serious that for our present purposes it seems necessary to confine its use strictly to the original meaning in which it describes a complex of deliberately co-ordinated actions serving a single scale of ends, and to adopt another term to describe the system of interrelated economics which constitute the market order."
@@ -104,7 +106,7 @@ Between Two Nobels: Buchanan & Hayek
 > "The term 'catallactics' was derived from the Greek verb *katallattein* (or *katallassein*) which meant, significantly, not only ***'to exchange'*** but also ***'to admit into the community'*** and ***'to change from enemy into friend'***. From it the adjective 'catallatic' has been derived to serve in the place of 'economic' to describe the kind of phenomena with which the science of catallatics deals."
 :::
 
-## @BuchananSEJ1964 on Catallatics 
+## @BuchananSEJ1964 on Catallactics 
 
 ::: {.r-fit-text}
 > "Should I have my say, I should propose that we cease, forthwith, to talk about 'economics' or 'political economy,' although the latter is the much superior term. Were it possible to wipe the slate clean, I should recommend that we take up a wholly different term such as ***'catallactics,'*** or ***'symbiotics.'***"
@@ -149,7 +151,7 @@ Between Two Nobels: Buchanan & Hayek
 
 <br>
 
-<div style="font size: 4em">
+<div style="font-size: 0.95em">
 ::: {.incremental}
 - What are the knowledge problems?
 - What are the coordination problems?
@@ -160,11 +162,13 @@ Between Two Nobels: Buchanan & Hayek
 :::
 </div>
 
-## Conclusion
 
-<div style="font size: 2em">
-### Thank You!!! {.center}
-</div>
+##
 
+<br>
+
+::: {.center .r-fit-text}
+Thank You!
+:::
 
 ## References 
