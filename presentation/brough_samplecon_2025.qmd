@@ -55,6 +55,7 @@ bibliography: references.bib
 - Focus instead on:
   1. ***Human augmentative*** systems
   2. ***Intelligent infrastructure***
+- Founded in CS, Stats, & ***ECON***!
 :::
 
 ::: {.column width="50%"}
