@@ -49,30 +49,29 @@ bibliography: references.bib
 
 :::: {.columns .v-center}
 
-::: {.column width="40%"}
-- In 2019, Jordan wrote a provactive article
-- Calls for reduced hype around *human imitative* AI
+::: {.column width="60%"}
+- **NOT:** human imitative AI 
 - Focus instead on:
-  - 1. *Human augmentatitive* systems
-  - 2. *Intelligent infrastructure* 
+  - 1. ***Human augmentatitive*** systems
+  - 2. ***Intelligent infrastructure***
 :::
 
-::: {.column width="60%"}
+::: {.column width="40%"}
 ![](../images/revolution.png){fig-align="center"}
 :::
 
 ::::
 
 
-## Two Pillars of Catallatics 
+## Two Pillars of Catallactics {data-max-scale=1.8}
 
 :::: {.columns .v-center}
 
-::: {.column width="50%"}
+::: {.column width="75%"}
 ![](../images/Hayek-Nobel.jpg){fig-align="center"}
 :::
 
-::: {.column width="50%"}
+::: {.column width="75%"}
 ![](../images/Buchanan-Nobel.png){fig-align="center"}
 :::
 
@@ -98,20 +97,22 @@ Between Two Nobels: Buchanan & Hayek
 
 ## Hayek on Catallatics 
 
+::: {.r-fit-text}
 > "The confusion which has been created by the ambiguity of the word economy is so serious that for our present purposes it seems necessary to confine its use strictly to the original meaning in which it describes a complex of deliberately co-ordinated actions serving a single scale of ends, and to adopt another term to describe the system of interrelated economics which constitute the market order."
 
 
 > "The term 'catallactics' was derived from the Greek verb *katallattein* (or *katallassein*) which meant, significantly, not only ***'to exchange'*** but also ***'to admit into the community'*** and ***'to change from enemy into friend'***. From it the adjective 'catallatic' has been derived to serve in the place of 'economic' to describe the kind of phenomena with which the science of catallatics deals."
-
+:::
 
 ## @BuchananSEJ1964 on Catallatics 
 
+::: {.r-fit-text}
 > "Should I have my say, I should propose that we cease, forthwith, to talk about 'economics' or 'political economy,' although the latter is the much superior term. Were it possible to wipe the slate clean, I should recommend that we take up a wholly different term such as ***'catallactics,'*** or ***'symbiotics.'***"
 
 > "The elementary and basic approach that I suggest places 'the theory of markets' and not the 'theory of resource allocation' at center stage. My plea is really for the adoption of a sophisticated ***'catallactics'*** ..."
+:::
 
-
-## Hayekian on Knowledge and Coordination Problems ... [see @HayekEconomica1937]
+## Hayekian Knowledge and Coordination Problems ... [see @HayekEconomica1937]
 
 ![](../images/Hayek-1937.png){fig-align="center"}
 
@@ -148,18 +149,22 @@ Between Two Nobels: Buchanan & Hayek
 
 <br>
 
+<div style="font size: 4em">
 ::: {.incremental}
 - What are the knowledge problems?
 - What are the coordination problems?
-- [Enshittification?](https://jddeitch.com/the-enshittification-of-programmatic-sampling-by-jd-deitch/) No! 
-- A *humane* data science requires proper *exchange* relationships
-- The commons is simply the wrong analogy
+- <a href="https://jddeitch.com/the-enshittification-of-programmatic-sampling-by-jd-deitch/" style="color: #0000FF"> Enshittification?</a> No!
+- A ***humane*** data science requires proper ***exchange*** relationships
+- The tragedy of the commons is simply the wrong analogy!
 - What we have is an incomplete set of contracts in a properly structured labor market
 :::
+</div>
 
+## Conclusion
 
+<div style="font size: 2em">
+### Thank You!!! {.center}
+</div>
 
 
 ## References 
-
-<br>
