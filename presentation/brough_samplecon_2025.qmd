@@ -23,9 +23,9 @@ bibliography: references.bib
 ![](../images/whoami.png){fig-align="center"}
 
 ::: {.incremental}
-- [PhD Finance](https://eller.arizona.edu/departments-research/schools-departments/finance), [MS Finance](https://giesbusiness.illinois.edu/msf), [BA Economics](https://economics.byu.edu/)
-- [Data Analytics + Information Systems](https://huntsman.usu.edu/dais/) at USU (FinTech)
-- Academic Research Director of the [**Analytics Solutions Center**](https://huntsman.usu.edu/asc/)
+- [PhD Finance](https://eller.arizona.edu/departments-research/schools-departments/finance), [MS Finance](https://giesbusiness.illinois.edu/msf), [BA Economics](https://economics.byu.edu/).
+- [Data Analytics + Information Systems](https://huntsman.usu.edu/dais/) at USU (FinTech).
+- Academic Research Director of the [**Analytics Solutions Center**](https://huntsman.usu.edu/asc/).
 :::
 
 :::
@@ -51,11 +51,11 @@ bibliography: references.bib
 
 ::: {.column width="50%" .incremental}
 - Let's pump the brakes on the AI hype machine!
-- **NOT:** human imitative AI 
+- **NOT:** human imitative AI.
 - Focus instead on:
-  1. ***Human augmentative*** systems
-  2. ***Intelligent infrastructure***
-- Founded in CS, Stats, & ***ECON***!
+  1. ***Intelligence Augmentation*** (IA).
+  2. ***Intelligent Infrastructure*** (II).
+- CS, Stats, & ***ECON***!
 :::
 
 ::: {.column width="50%"}
@@ -63,6 +63,14 @@ bibliography: references.bib
 :::
 
 ::::
+
+## The G.O.A.T Quote 
+
+<br>
+
+::: {.center .r-fit-text}
+> "We should embrace the fact that we are witnessing the creation of a new branch of engineering. The term engineering has connotations—in academia and beyond—of cold, affectless machinery, and of loss of control for humans, but an engineering discipline can be what we want it to be. In the current era, *we have a real opportunity to conceive of something historically new:* ***a human-centric engineering discipline.***"
+:::
 
 
 ## Two Pillars of Catallactics {data-max-scale=1.8}
@@ -87,13 +95,11 @@ bibliography: references.bib
 
 <br>
 
-Between Two Nobels: Buchanan & Hayek
-
 ::: {.incremental}
-- Catallactics: economics as a humane science 
-- *The science of exchange*, *to admit into the community*, *to turn an outsider into a friend*
-- The evolution of institutions as attempts to cope with knowledge/coordination problems
-- Martin Buber's [I and Thou](https://link.springer.com/article/10.1007/s11127-023-01047-y)
+- Catallactics: economics as a humane science.
+- *The science of exchange*, *to admit into the community*, *to turn an outsider into a friend*.
+- The evolution of institutions as attempts to cope with knowledge/coordination problems.
+- Think *exchange* paradigm rather than *allocation* paradigm!
 :::
 
 
@@ -137,6 +143,16 @@ Between Two Nobels: Buchanan & Hayek
 ![](../images/Williams%201982.png){fig-align="center" height="20%"}
 
 
+::: {.notes}
+Williams' study of financial markets provides a compelling historical case study of the catallactic approach advocated by both Hayek and Buchanan. What Williams documents is not merely the efficiency of markets, but how specific institutional arrangements and contractual frameworks evolved to solve the Hayekian knowledge and coordination problems.
+
+The paper demonstrates how, over time, market participants developed sophisticated institutional structures—including standardized contracts, clearing mechanisms, and price discovery systems—that effectively aggregated dispersed information. These weren't imposed from above but emerged through the voluntary exchange relationships that Hayek and Buchanan emphasized.
+
+This historical example illustrates that technological solutions alone didn't drive market efficiency. Rather, it was the catallactic process—the admission of diverse participants into a community of exchange with well-defined rules—that enabled markets to function effectively despite no single participant having complete information.
+
+The parallel to our data quality challenges is clear: we need similar institutional-contractual frameworks, not just better algorithms, to address the dispersed knowledge problem in data science.
+:::
+
 ## @RollAER1984 on Orange Juice and Weather {.smaller}
 
 ::: {.figure fig-align="center"}
@@ -148,24 +164,52 @@ Between Two Nobels: Buchanan & Hayek
 :::
 
 
-## A Guide for Entrepreneurs in Programmatic Sampling
+## A Challenge for Entrepreneurs in Programmatic Sampling
 
 <br>
 
-<div style="font-size: 1em">
+<div style="font-size: 0.9em">
 ::: {.incremental}
 - What are the knowledge problems?
 - What are the coordination problems?
-- <a href="https://jddeitch.com/the-enshittification-of-programmatic-sampling-by-jd-deitch/" style="color: #0000FF"> Enshittification?</a>
-- **NO!!!**
-- A ***humane*** data science requires proper ***exchange*** relationships
-- The tragedy of the commons is simply the wrong analogy!
-- What we have is an incomplete set of contracts in a properly structured labor market
+- <a href="https://jddeitch.com/the-enshittification-of-programmatic-sampling-by-jd-deitch/" style="color: #0000FF"> Enshittification?</a> Yes! And **NO!!!**
+- A ***humane*** data science requires proper ***exchange*** relationships.
+- I don't believe that market failure or tragedy of the commons is the proper economic metaphor! 
+- What we have is an incomplete set of contracts in a properly structured labor market.
+- What are the missing institutions? How can Jordan's IA/II help create them?
 :::
 </div>
 
 
+## Implications of Reframing
+
+<br>
+
+<div style="font-size: 0.8em">
+:::: {.columns .v-center}
+
+::: {.column width="50%" .incremental}
+- **Under the Market-Failure Paradigm**
+  - Focus on preserving the "resource pool" of participants.
+  - Treat the problem as one of overexploitation.
+  - Seek regulatory or voluntary restrictions on access/usage.
+  - Participant burnout as depletion of a finite resource rather than as rational economic disengagement.
+:::
+
+::: {.column width="50%" .incremental}
+- **Under the Exchange Paradigm**
+  - Focus on developing fair compensation and working conditions.
+  - Treat respondents as service providers rather than resources.
+  - Build institutional structures that formalize the relationship.
+  - Establish professional standards and goverance procedures for quality monitoring.:
+:::
+
+::::
+</div>
+
 ##
+
+<br>
 
 ::: {.center .r-fit-text}
 Thank You!
